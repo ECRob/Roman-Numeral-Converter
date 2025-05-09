@@ -23,6 +23,8 @@ form {
 }
 
 .output {
+    padding-top: 5px;
+    font-style: bold;
     text-align: center;
     margin: auto
   }
