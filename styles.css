@@ -1,0 +1,23 @@
+* {
+  background: 	#790181;
+  color: #eee8e8;
+}
+
+h1 {
+  font-family: skranji;
+  text-align: center;
+  color: #eee8e8;
+  margin-top: 5%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+
+form {
+  text-align: center;
+  margin: auto;
+}
